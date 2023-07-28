@@ -1,7 +1,7 @@
 import React from 'react';
 
-import CardItem from './CardItem';
-import './Cards.css';
+import CardItem from './CardItem'
+import './style.css';
 
 const Cards = () => {
   return (

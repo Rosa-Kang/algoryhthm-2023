@@ -2,12 +2,12 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
 
 import './App.css';
-import Home from './components/pages/Home';
-import Navbar from './components/Navbar';
-import Services from './components/pages/Services';
-import SignUp from './components/pages/SignUp';
-import Contact from './components/pages/Contact';
-import Footer from './components/Footer';
+import Home from './pages/Home';
+import Navbar from './components/Nav/Navbar';
+import Footer from './components/Footer/Footer'
+import Services from './pages/Services';
+import Contact from './pages/Contact';
+import SignUp from './pages/SignUp';
 
 function App() {
   return (
