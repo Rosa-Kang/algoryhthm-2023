@@ -17,7 +17,7 @@ const HeroSection = () => {
               <Button className='btns' buttonStyle='btn--primary'
                   buttonSize='btn--large'
               >WATCH TRAILER
-              <i className='far fa-play-circle'/>
+                  <i className="fa-solid fa-play"></i>
               </Button>
           </div>
     </div>
